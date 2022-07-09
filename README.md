@@ -24,3 +24,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=menaaymansedki&show_icons=true&locale=en" alt="menaaymansedki" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=menaaymansedki&" alt="menaaymansedki" /></p>
+
+## Snake eating my graph
+![snake gif](https://github.com/MenaAymanSedki/MenaAymanSedki/blob/output/github-contribution-grid-snake.gif)
+
+
+
