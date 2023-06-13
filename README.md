@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=menaaymansedki&label=Profile%20views&color=0e75b6&style=flat" alt="menaaymansedki" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m Now Flutter Developer **Flutter**
 
 - 💬 Ask me about **Android kotlin , Flutter**
 
